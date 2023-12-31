@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyARae2WaY46yH5m7RsTTf2cdpVK2-g8H6c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>491108337032</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.quickMart.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>quick-mart-app</string>
+	<key>STORAGE_BUCKET</key>
+	<string>quick-mart-app.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:491108337032:ios:ed3db749380c1450bf263d</string>
+</dict>
+</plist>
